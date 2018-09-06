@@ -15,12 +15,12 @@
 			$array2[$xd] = $val;
 	}
 	echo "Primer array:<br>";
-	foreach($array1 as $val1){
-		echo $val1." ";
+	foreach($array1 as $val){
+		echo $val." ";
 	}
 	echo "<br>Segundo array:<br>";
-	foreach($array2 as $val2){
-		echo $val2." ";
+	foreach($array2 as $val){
+		echo $val." ";
 	}
 	
 ?>
